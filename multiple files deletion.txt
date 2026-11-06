@@ -1,0 +1,9 @@
+multiple files deletion:
+rm file1.txt
+rm -i file.txt	  (yes/no)
+rm -f file2.txt   (forcibly stop)
+rm -r dirname
+rm -rf dirname
+
+single file deletion:
+unlink file.txt
